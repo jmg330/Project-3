@@ -1,0 +1,22 @@
+h1{
+	background-color: #008000;
+	text-align: center;
+	font-family: 'Roboto Mono', monospace;
+}
+
+h2{
+	text-align: center;
+	background-color: #008000;
+	font-family: 'Times New Roman', Times, serif;
+}
+h2, p{
+	font-family: 'Helvetica', serif;
+}
+span{
+	text-align: center;
+	background-color: #008000;
+}
+nav{
+	text-align: center;
+}
+
